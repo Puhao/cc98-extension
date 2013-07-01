@@ -1,0 +1,9 @@
+{
+  "name": "挖坑大师",
+  "version": "2.0",
+  "manifest_version": 2,
+  "description": "心灵板块查WSN",
+  "browser_action": {
+    "default_icon": "wsj.jpg"
+  }
+}
